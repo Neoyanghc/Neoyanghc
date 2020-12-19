@@ -1,7 +1,7 @@
 ## Hi there，I'm Neoyanghc 🙋‍♂️
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+![build](https://github.com/neoyanghc/neoyanghc/workflows/build/neoyanghc.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/neoyanghc/neoyanghc)
+![pv](https://pageview.vercel.app/?github_user=neoyanghc)
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="200">
 Currently, I'm a PhD Candidate in tongji, shanghai. major in computer science。
