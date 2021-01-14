@@ -15,8 +15,9 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 ---
 
 ### Education
-+ 2016-2020, B.E. in Computer Science and Technology, Beijing Jiaotong University.
-+ 2020-2026（expected）PhD candidate. in Computer Science and Technology, Tongji University.
++ 2016-2020, B.E. in Computer Science and Technology, Beijing Jiaotong University. Beijing. China
++ 2019-2020，internship，in IT Department of Beijing Bytedance Network Technology Co., Ltd. Beijing. China
++ 2020-2026（expected）PhD candidate. in Computer Science and Technology, Tongji University. Shanghai. China
 
 ### Research Interests
  + Machine Learning
