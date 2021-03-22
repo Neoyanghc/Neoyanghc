@@ -28,4 +28,3 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ### Contact
 + neoyang@tongji.edu.cn
-+ <a href="https://tva1.sinaimg.cn/large/0081Kckwly1glsznl3qdsj30by0bymxz.jpg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
