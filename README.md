@@ -7,7 +7,7 @@
 <a href="https://github.com/Neoyanghc">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a> 
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
 Currently, I'm a PhD Candidate in tongji, shanghai. major in computer science。
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
