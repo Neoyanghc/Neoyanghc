@@ -26,5 +26,3 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Neoyanghc&show_icons=true&theme=merko" width="300"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoyanghc&layout=compact&theme=merko" width="250">
 
-### Contact
-+ neoyang@tongji.edu.cn
