@@ -2,7 +2,8 @@
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gqhoobd6kaj31jk0b4455.jpg)
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+I love connecting with different people so if you want to say hi,
+I'll be happy to meet you more! 😊
 ---
 
 ### Experience
