@@ -8,9 +8,9 @@ I'll be happy to meet you more! 😊
 ---
 
 ### Experience
-+ 2016-2020, B.E. in Computer Science and Technology, Beijing Jiaotong University. Beijing. China
-+ 2019-2020, Internship. in IT Department of Beijing Bytedance Co., Ltd. Beijing. China
-+ 2020-,  PhD candidate. in Computer Science and Technology, Tongji University. Shanghai. China
++ 2016-2020, B.E. in Computer Science and Technology, Beijing Jiaotong University. Beijing.
++ 2019-2020, Internship. in IT Department of Beijing Bytedance Co., Ltd. Beijing.
++ 2020-,  PhD candidate. in Computer Science and Technology, Tongji University. Shanghai.
 + 2023-,  Dual PhD candidate. in Department of Computing, The Hong Kong Polytechnic University, Hong Kong S.A.R.
 ### Research Interests
  + Graph Learning
