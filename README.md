@@ -9,7 +9,7 @@
 + 2019-2020, Internship. in IT Department of Beijing Bytedance Co., Ltd. Beijing.
 + 2020-,  PhD candidate. in Computer Science and Technology, Tongji University. Shanghai.
 + 2023-,  Dual PhD candidate. in Department of Computing, The Hong Kong Polytechnic University, Hong Kong S.A.R.
-+ 2024-,  Exchange Student, In Department of Computer Science,  University of Illinois Chicago.
++ 2024-,  Exchange Student, In Department of Computer Science,  University of Illinois Chicago, Chicago, U.S.A.
 ### Research Interests
  + Graph Learning
  + Spatial-Temporal Data Mining
