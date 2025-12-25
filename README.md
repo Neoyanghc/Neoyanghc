@@ -16,6 +16,4 @@
  + Interpretability of Deep Learning
  + Large Models
 
-### WebSite
-
-https://neoyanghc.github.io/
+### WebSite: https://neoyanghc.github.io/
